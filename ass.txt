@@ -1,0 +1,4 @@
+this is my git practical assignment 
+am learning git commands. 
+practicing pull commmand
+practicing pull request
